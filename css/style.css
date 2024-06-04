@@ -29,3 +29,19 @@ h1{
 main{
     background-color: #F6F8F9;
 }
+
+.circle{
+    border: 1px solid green;
+    color: green;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    line-height: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.circlex{
+    color: red;
+    border-color: red;
+}
