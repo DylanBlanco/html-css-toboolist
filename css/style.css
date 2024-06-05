@@ -10,6 +10,9 @@
     width: 80%;
     margin: 0 auto;
     background-color: white;
+    border-bottom: 10px solid #F6F8F9;
+    border-top: 30px solid #F6F8F9;
+    border-radius: 10px;
 }
 
 /*HEADER*/
@@ -48,9 +51,15 @@ main{
 }
 
 .add{
-    border-radius: 2px;
+    border-radius: 3px;
     border: 1px solid #44ABEA;
     background-color: #44ABEA;
+    padding: 3px;
+}
+.selection{
+    border: 1px solid #CFD4D9;
+    background-color: white;
+    color: #CFD4D9;
 }
 
 .mark{
@@ -73,9 +82,16 @@ main{
 }
 
 .tasks-container{
-    margin: 5%;
+    margin: 3%;
 }
 
 .tline{
     margin: 2%;
+}
+
+.button-container{
+    border-bottom: 5px solid #F6F8F9;
+}
+.button{
+    padding: 15px;
 }
