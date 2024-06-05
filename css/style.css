@@ -9,7 +9,7 @@
 .container{
     width: 80%;
     margin: 0 auto;
-    background-color: gray;
+    background-color: white;
 }
 
 /*HEADER*/
@@ -45,4 +45,29 @@ main{
 .circlex{
     color: red;
     border-color: red;
+}
+
+.add{
+    border-radius: 2px;
+    border: 1px solid #44ABEA;
+    background-color: #44ABEA;
+}
+
+.mark{
+    border: 1px solid #44ABEA;
+    border-radius: 10px;
+    background-color: #44ABEA;
+    padding: 3px;
+}
+.markpurple{
+    border: 1px solid #9B72E4;
+    background-color: #9B72E4;
+}
+.markgreen{
+    border: 1px solid #64C0A9;
+    background-color: #64C0A9;
+}
+.markorange{
+    background-color: #F19E32;
+    border: 1px solid #F19E32;
 }
