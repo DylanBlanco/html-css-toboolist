@@ -71,3 +71,11 @@ main{
     background-color: #F19E32;
     border: 1px solid #F19E32;
 }
+
+.tasks-container{
+    margin: 5%;
+}
+
+.tline{
+    margin: 2%;
+}
